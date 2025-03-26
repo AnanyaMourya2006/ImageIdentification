@@ -50,7 +50,7 @@
     flippedVideo.remove();
 
   }
-
+console.log('Teachable Machine Image Model');
   // When we get a result
   function gotResult(error, results) {
     // If there is an error
